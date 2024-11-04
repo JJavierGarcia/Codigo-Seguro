@@ -19,6 +19,7 @@ Nombre de los autores y profesora
 Cecilia Fernández Viña [Bio Personal](cecilia.md)
 
 Jose Javier Garcia Sanchez
+[Bio Personal](JoseJavier.md)
 
 Irene Cid
 
