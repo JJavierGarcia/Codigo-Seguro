@@ -4,22 +4,26 @@ Codigo Seguro
 
 ## Description
 
-Esto es una practica del modulo de puesta en produccion segura
+
+Repositorio para incluir las mejores prácticas de creación de código seguro
 
 ## Getting Started
 
 ### Dependencies
 
-El unico requisito es tener este proyecto de github compartido con nuestra pareja
 
 ## Authors
 
-Contributors names and contact info
+Nombre de los autores y profesora
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+Cecilia Fernández Viña
 
 Jose Javier Garcia Sanchez
+
+Irene Cid
+
+
+
 
 ## Version History
 
