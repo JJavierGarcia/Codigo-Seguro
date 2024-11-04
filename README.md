@@ -24,6 +24,8 @@ Irene Cid
 ex. Dominique Pizzie  
 ex. [@DomPizzie](https://twitter.com/dompizzie)
 
+Jose Javier Garcia Sanchez
+
 ## Version History
 
 * 0.2
