@@ -19,6 +19,7 @@ Nombre de los autores y profesora
 Cecilia Fernández Viña
 
 Jose Javier Garcia Sanchez
+[JoseJavier.md]
 
 Irene Cid
 
