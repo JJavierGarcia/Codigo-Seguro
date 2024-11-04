@@ -4,13 +4,13 @@ Codigo Seguro
 
 ## Description
 
-Esto es una practica del modulo de puesta en produccion segura
+
+Repositorio para incluir las mejores prácticas de creación de código seguro
 
 ## Getting Started
 
 ### Dependencies
 
-Repositorio para incluir las mejores prácticas de creación de código seguro
 
 ## Authors
 
