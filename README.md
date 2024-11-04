@@ -16,7 +16,7 @@ Repositorio para incluir las mejores prácticas de creación de código seguro
 
 Nombre de los autores y profesora
 
-Cecilia Fernández Viña
+Cecilia Fernández Viña [Bio Personal](cecilia.md)
 
 Jose Javier Garcia Sanchez
 
