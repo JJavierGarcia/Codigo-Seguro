@@ -10,11 +10,16 @@ Esto es una practica del modulo de puesta en produccion segura
 
 ### Dependencies
 
-El unico requisito es tener este proyecto de github compartido con nuestra pareja
+Repositorio para incluir las mejores prácticas de creación de código seguro
 
 ## Authors
 
-Contributors names and contact info
+Nombre de los autores y profesora
+
+Cecilia Fernández Viña
+
+Irene Cid
+
 
 ex. Dominique Pizzie  
 ex. [@DomPizzie](https://twitter.com/dompizzie)
