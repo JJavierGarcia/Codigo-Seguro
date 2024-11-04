@@ -18,13 +18,12 @@ Nombre de los autores y profesora
 
 Cecilia Fernández Viña
 
+Jose Javier Garcia Sanchez
+
 Irene Cid
 
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
 
-Jose Javier Garcia Sanchez
 
 ## Version History
 
